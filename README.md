@@ -6,7 +6,7 @@
 
 Test MSE loss: 0.03038
 
-*Part 1: CNN model predicting the position*
+*Part 2: CNN model predicting the position*
 
 <img src="Plots/CNN Loss Plot.png" width="650">
 
